@@ -1,0 +1,992 @@
+[
+  {
+    "currency_code": "AUD",
+    "rate": null,
+    "date": "2024-12-01",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "AUD",
+    "rate": 2.6514,
+    "date": "2024-12-02",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "AUD",
+    "rate": 2.6505,
+    "date": "2024-12-03",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "AUD",
+    "rate": 2.6218,
+    "date": "2024-12-04",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "AUD",
+    "rate": 2.6109,
+    "date": "2024-12-05",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "BGN",
+    "rate": null,
+    "date": "2024-12-01",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "BGN",
+    "rate": 2.1946,
+    "date": "2024-12-02",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "BGN",
+    "rate": 2.1948,
+    "date": "2024-12-03",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "BGN",
+    "rate": 2.1934,
+    "date": "2024-12-04",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "BGN",
+    "rate": 2.1829,
+    "date": "2024-12-05",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "BRL",
+    "rate": null,
+    "date": "2024-12-01",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "BRL",
+    "rate": 0.6835,
+    "date": "2024-12-02",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "BRL",
+    "rate": 0.6733,
+    "date": "2024-12-03",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "BRL",
+    "rate": 0.6761,
+    "date": "2024-12-04",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "BRL",
+    "rate": 0.6712,
+    "date": "2024-12-05",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "CAD",
+    "rate": null,
+    "date": "2024-12-01",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "CAD",
+    "rate": 2.91,
+    "date": "2024-12-02",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "CAD",
+    "rate": 2.9104,
+    "date": "2024-12-03",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "CAD",
+    "rate": 2.9033,
+    "date": "2024-12-04",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "CAD",
+    "rate": 2.8844,
+    "date": "2024-12-05",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "CHF",
+    "rate": null,
+    "date": "2024-12-01",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "CHF",
+    "rate": 4.6077,
+    "date": "2024-12-02",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "CHF",
+    "rate": 4.6089,
+    "date": "2024-12-03",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "CHF",
+    "rate": 4.6041,
+    "date": "2024-12-04",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "CHF",
+    "rate": 4.5827,
+    "date": "2024-12-05",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "CLP",
+    "rate": null,
+    "date": "2024-12-01",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "CLP",
+    "rate": 0.004194,
+    "date": "2024-12-02",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "CLP",
+    "rate": 0.004171,
+    "date": "2024-12-03",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "CLP",
+    "rate": 0.004198,
+    "date": "2024-12-04",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "CLP",
+    "rate": 0.004159,
+    "date": "2024-12-05",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "CNY",
+    "rate": null,
+    "date": "2024-12-01",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "CNY",
+    "rate": 0.5613,
+    "date": "2024-12-02",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "CNY",
+    "rate": 0.5601,
+    "date": "2024-12-03",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "CNY",
+    "rate": 0.5616,
+    "date": "2024-12-04",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "CNY",
+    "rate": 0.5582,
+    "date": "2024-12-05",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "CZK",
+    "rate": null,
+    "date": "2024-12-01",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "CZK",
+    "rate": 0.17,
+    "date": "2024-12-02",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "CZK",
+    "rate": 0.1702,
+    "date": "2024-12-03",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "CZK",
+    "rate": 0.1707,
+    "date": "2024-12-04",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "CZK",
+    "rate": 0.1698,
+    "date": "2024-12-05",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "DKK",
+    "rate": null,
+    "date": "2024-12-01",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "DKK",
+    "rate": 0.5755,
+    "date": "2024-12-02",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "DKK",
+    "rate": 0.5755,
+    "date": "2024-12-03",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "DKK",
+    "rate": 0.5752,
+    "date": "2024-12-04",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "DKK",
+    "rate": 0.5724,
+    "date": "2024-12-05",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "EUR",
+    "rate": null,
+    "date": "2024-12-01",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "EUR",
+    "rate": 4.2923,
+    "date": "2024-12-02",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "EUR",
+    "rate": 4.2927,
+    "date": "2024-12-03",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "EUR",
+    "rate": 4.2899,
+    "date": "2024-12-04",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "EUR",
+    "rate": 4.2695,
+    "date": "2024-12-05",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "GBP",
+    "rate": null,
+    "date": "2024-12-01",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "GBP",
+    "rate": 5.1871,
+    "date": "2024-12-02",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "GBP",
+    "rate": 5.1726,
+    "date": "2024-12-03",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "GBP",
+    "rate": 5.1776,
+    "date": "2024-12-04",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "GBP",
+    "rate": 5.1589,
+    "date": "2024-12-05",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "HKD",
+    "rate": null,
+    "date": "2024-12-01",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "HKD",
+    "rate": 0.5247,
+    "date": "2024-12-02",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "HKD",
+    "rate": 0.5243,
+    "date": "2024-12-03",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "HKD",
+    "rate": 0.5248,
+    "date": "2024-12-04",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "HKD",
+    "rate": 0.5211,
+    "date": "2024-12-05",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "HUF",
+    "rate": null,
+    "date": "2024-12-01",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "HUF",
+    "rate": 0.010365,
+    "date": "2024-12-02",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "HUF",
+    "rate": 0.010357,
+    "date": "2024-12-03",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "HUF",
+    "rate": 0.010362,
+    "date": "2024-12-04",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "HUF",
+    "rate": 0.010346,
+    "date": "2024-12-05",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "IDR",
+    "rate": null,
+    "date": "2024-12-01",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "IDR",
+    "rate": 0.00025677,
+    "date": "2024-12-02",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "IDR",
+    "rate": 0.00025598,
+    "date": "2024-12-03",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "IDR",
+    "rate": 0.0002564,
+    "date": "2024-12-04",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "IDR",
+    "rate": 0.00025569,
+    "date": "2024-12-05",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "ILS",
+    "rate": null,
+    "date": "2024-12-01",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "ILS",
+    "rate": 1.1217,
+    "date": "2024-12-02",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "ILS",
+    "rate": 1.122,
+    "date": "2024-12-03",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "ILS",
+    "rate": 1.1301,
+    "date": "2024-12-04",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "ILS",
+    "rate": 1.1251,
+    "date": "2024-12-05",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "INR",
+    "rate": null,
+    "date": "2024-12-01",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "INR",
+    "rate": 0.048195,
+    "date": "2024-12-02",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "INR",
+    "rate": 0.048185,
+    "date": "2024-12-03",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "INR",
+    "rate": 0.048214,
+    "date": "2024-12-04",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "INR",
+    "rate": 0.047859,
+    "date": "2024-12-05",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "ISK",
+    "rate": null,
+    "date": "2024-12-01",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "ISK",
+    "rate": 0.0295,
+    "date": "2024-12-02",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "ISK",
+    "rate": 0.029463,
+    "date": "2024-12-03",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "ISK",
+    "rate": 0.029443,
+    "date": "2024-12-04",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "ISK",
+    "rate": 0.029344,
+    "date": "2024-12-05",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "JPY",
+    "rate": null,
+    "date": "2024-12-01",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "JPY",
+    "rate": 0.027154,
+    "date": "2024-12-02",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "JPY",
+    "rate": 0.027235,
+    "date": "2024-12-03",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "JPY",
+    "rate": 0.027116,
+    "date": "2024-12-04",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "JPY",
+    "rate": 0.026979,
+    "date": "2024-12-05",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "KRW",
+    "rate": null,
+    "date": "2024-12-01",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "KRW",
+    "rate": 0.002907,
+    "date": "2024-12-02",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "KRW",
+    "rate": 0.00291,
+    "date": "2024-12-03",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "KRW",
+    "rate": 0.002888,
+    "date": "2024-12-04",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "KRW",
+    "rate": 0.002861,
+    "date": "2024-12-05",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "MXN",
+    "rate": null,
+    "date": "2024-12-01",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "MXN",
+    "rate": 0.1998,
+    "date": "2024-12-02",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "MXN",
+    "rate": 0.2003,
+    "date": "2024-12-03",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "MXN",
+    "rate": 0.2007,
+    "date": "2024-12-04",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "MXN",
+    "rate": 0.2003,
+    "date": "2024-12-05",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "MYR",
+    "rate": null,
+    "date": "2024-12-01",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "MYR",
+    "rate": 0.9154,
+    "date": "2024-12-02",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "MYR",
+    "rate": 0.9128,
+    "date": "2024-12-03",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "MYR",
+    "rate": 0.9173,
+    "date": "2024-12-04",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "MYR",
+    "rate": 0.9159,
+    "date": "2024-12-05",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "NOK",
+    "rate": null,
+    "date": "2024-12-01",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "NOK",
+    "rate": 0.3684,
+    "date": "2024-12-02",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "NOK",
+    "rate": 0.3694,
+    "date": "2024-12-03",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "NOK",
+    "rate": 0.3694,
+    "date": "2024-12-04",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "NOK",
+    "rate": 0.3669,
+    "date": "2024-12-05",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "NZD",
+    "rate": null,
+    "date": "2024-12-01",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "NZD",
+    "rate": 2.4106,
+    "date": "2024-12-02",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "NZD",
+    "rate": 2.4058,
+    "date": "2024-12-03",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "NZD",
+    "rate": 2.3864,
+    "date": "2024-12-04",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "NZD",
+    "rate": 2.3782,
+    "date": "2024-12-05",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "PHP",
+    "rate": null,
+    "date": "2024-12-01",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "PHP",
+    "rate": 0.0696,
+    "date": "2024-12-02",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "PHP",
+    "rate": 0.0696,
+    "date": "2024-12-03",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "PHP",
+    "rate": 0.07,
+    "date": "2024-12-04",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "PHP",
+    "rate": 0.07,
+    "date": "2024-12-05",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "RON",
+    "rate": null,
+    "date": "2024-12-01",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "RON",
+    "rate": 0.8624,
+    "date": "2024-12-02",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "RON",
+    "rate": 0.8625,
+    "date": "2024-12-03",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "RON",
+    "rate": 0.8618,
+    "date": "2024-12-04",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "RON",
+    "rate": 0.8578,
+    "date": "2024-12-05",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "SEK",
+    "rate": null,
+    "date": "2024-12-01",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "SEK",
+    "rate": 0.3723,
+    "date": "2024-12-02",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "SEK",
+    "rate": 0.3714,
+    "date": "2024-12-03",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "SEK",
+    "rate": 0.3708,
+    "date": "2024-12-04",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "SEK",
+    "rate": 0.3707,
+    "date": "2024-12-05",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "SGD",
+    "rate": null,
+    "date": "2024-12-01",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "SGD",
+    "rate": 3.0333,
+    "date": "2024-12-02",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "SGD",
+    "rate": 3.0345,
+    "date": "2024-12-03",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "SGD",
+    "rate": 3.0339,
+    "date": "2024-12-04",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "SGD",
+    "rate": 3.0232,
+    "date": "2024-12-05",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "THB",
+    "rate": null,
+    "date": "2024-12-01",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "THB",
+    "rate": 0.1184,
+    "date": "2024-12-02",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "THB",
+    "rate": 0.1186,
+    "date": "2024-12-03",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "THB",
+    "rate": 0.1189,
+    "date": "2024-12-04",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "THB",
+    "rate": 0.1187,
+    "date": "2024-12-05",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "TRY",
+    "rate": null,
+    "date": "2024-12-01",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "TRY",
+    "rate": 0.1175,
+    "date": "2024-12-02",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "TRY",
+    "rate": 0.1176,
+    "date": "2024-12-03",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "TRY",
+    "rate": 0.1174,
+    "date": "2024-12-04",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "TRY",
+    "rate": 0.1169,
+    "date": "2024-12-05",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "UAH",
+    "rate": null,
+    "date": "2024-12-01",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "UAH",
+    "rate": 0.098,
+    "date": "2024-12-02",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "UAH",
+    "rate": 0.0978,
+    "date": "2024-12-03",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "UAH",
+    "rate": 0.098,
+    "date": "2024-12-04",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "UAH",
+    "rate": 0.0974,
+    "date": "2024-12-05",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "USD",
+    "rate": null,
+    "date": "2024-12-01",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "USD",
+    "rate": 4.0827,
+    "date": "2024-12-02",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "USD",
+    "rate": 4.0803,
+    "date": "2024-12-03",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "USD",
+    "rate": 4.0845,
+    "date": "2024-12-04",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "USD",
+    "rate": 4.0554,
+    "date": "2024-12-05",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "XDR",
+    "rate": null,
+    "date": "2024-12-01",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "XDR",
+    "rate": 5.3553,
+    "date": "2024-12-02",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "XDR",
+    "rate": 5.3714,
+    "date": "2024-12-03",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "XDR",
+    "rate": 5.3641,
+    "date": "2024-12-04",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "XDR",
+    "rate": 5.3454,
+    "date": "2024-12-05",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "ZAR",
+    "rate": null,
+    "date": "2024-12-01",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "ZAR",
+    "rate": 0.2251,
+    "date": "2024-12-02",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "ZAR",
+    "rate": 0.2254,
+    "date": "2024-12-03",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "ZAR",
+    "rate": 0.2251,
+    "date": "2024-12-04",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "ZAR",
+    "rate": 0.2246,
+    "date": "2024-12-05",
+    "source": "NBP"
+  }
+]

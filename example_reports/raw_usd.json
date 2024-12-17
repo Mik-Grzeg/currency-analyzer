@@ -1,0 +1,32 @@
+[
+  {
+    "currency_code": "USD",
+    "rate": null,
+    "date": "2024-12-01",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "USD",
+    "rate": 4.0827,
+    "date": "2024-12-02",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "USD",
+    "rate": 4.0803,
+    "date": "2024-12-03",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "USD",
+    "rate": 4.0845,
+    "date": "2024-12-04",
+    "source": "NBP"
+  },
+  {
+    "currency_code": "USD",
+    "rate": 4.0554,
+    "date": "2024-12-05",
+    "source": "NBP"
+  }
+]

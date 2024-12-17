@@ -1,0 +1,16 @@
+[
+  {
+    "currency_code": "USD",
+    "source": "NBP",
+    "start_date": "2024-12-01",
+    "end_date": "2024-12-05",
+    "min_rate": 4.0554,
+    "max_rate": 4.0845,
+    "avg_rate": 4.0757,
+    "total_change_percent": 0.72,
+    "avg_daily_change": -0.22,
+    "start_rate": 4.0827,
+    "end_rate": 4.0554,
+    "start_to_end_change_percent": -0.67
+  }
+]

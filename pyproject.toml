@@ -1,0 +1,33 @@
+[tool.poetry]
+name = "currency-analyzer"
+version = "0.1.0"
+description = "A Python application for fetching, analyzing, and reporting currency exchange rates from the National Bank of Poland (NBP) API. Features include historical exchange rate data collection, persistent storage, trend analysis, and report generation in CSV/JSON formats."
+authors = ["Mik-Grzeg <mikolaj.grzegorzek@protonmail.com>"]
+readme = "README.md"
+packages = [{include = "currency_analyzer", from = "src"}]
+
+[tool.poetry.dependencies]
+python = "^3.13"
+requests = "^2.32.3"
+typer = "^0.15.1"
+polars = "^1.17.1"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.3.3"
+black = "^24.10.0"
+mypy = "^1.13.0"
+ruff = "^0.8.3"
+types-requests = "^2.32.0.20241016"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+analyzer = "currency_analyzer.cli.main:app"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_functions = ["test_*"]
+

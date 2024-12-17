@@ -1,0 +1,2 @@
+currency_code,source,start_date,end_date,min_rate,max_rate,avg_rate,total_change_percent,avg_daily_change,start_rate,end_rate,start_to_end_change_percent
+USD,NBP,2024-12-01,2024-12-05,4.0554,4.0845,4.0757,0.72,-0.22,4.0827,4.0554,-0.67
